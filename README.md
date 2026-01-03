@@ -29,6 +29,7 @@ I'm a Computer Scientist, Software Engineer, System Administrator, and Full Stac
 - 🌱 I am good in Dart,Flutter,devops,Java,C,git and github,fullstack development.
 - 😊 I’m looking for help with open source projects,Team Development,freelancer and entry-level opportunities.
 - 💼 Current Intern: Addis Ababa Water & Sewerage Autority and Develop deferent Platform like mobile apps and websites.
+- 💼 Current work: Drongoerp and Develop deferent Platform like mobile apps and websites.
 - 📫 You can [view my resume](https://my-php-portfolio-cs7y.onrender.com/) and contact me by emailing alazareshetu80@gmail.com.
 - 
 ---
